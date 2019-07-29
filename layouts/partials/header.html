@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+
+		{{ partial "meta.html" . }}
+
+		<base href="{{ .Site.BaseURL }}" />
+		{{ if .Title }}<title>{{ .Title }} - Rimworld Multiplayer</title>{{ else }}<title>Rimworld Multiplayer</title>{{ end }}
+		<link rel="canonical" href="{{ .Permalink }}" />
+		{{ if .RSSLink }}
+			<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+			<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+		{{ end }}
+
+		{{ partial "head_includes.html" }}
+	</head>
+	<body lang="en">
+		<div id="background"> </div>
+		<div id="centercolumn">
+			<nav id="header">
+				<header class="left">
+					<a href="/" id="name">
+						Rimworld Multiplayer
+					</a>
+					<br>
+					<span id="subname">
+						<!--Filled by the TypeScript code.-->
+						<br>
+					</span>
+				</header>
+				<div class="right">
+					<a class="navlink" href="/about/">About</a>
+					<a class="navlink" href="/about/download/">Download</a>
+					<a class="navlink" href="/about/faq/">FAQ</a>
+					<!--<a class="navlink" href="#">Get Involved</a>-->
+				</div>
+			</nav>
+			<main>

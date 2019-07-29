@@ -1,0 +1,11 @@
+baseURL = "https://rimworldmultiplayer.com/"
+languageCode = "en-us"
+title = "RWMP"
+ignoreFiles = ["\\.ts$", "tsconfig.json$"]
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+# PYGMENTS (Syntax Highlighting) settings!
+# I couldn't get Chroma to parse C# at all.
+PygmentsUseClassic = true
+PygmentsCodeFences = true
+PygmentsUseClasses = true
