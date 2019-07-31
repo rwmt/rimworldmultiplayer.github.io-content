@@ -10,15 +10,15 @@ function pick<T>(array: T[]): T {
 
 function onLoaded() {
 	document.getElementById("subname").innerHTML = pick([
-		"Crashing SS13, with no survivors!",
-		"Get dat fukken remake!",
+		"Founding Order of Zetrith",
+		"Mod Mismatch Thing_Deff: Count Diff",
 		"Soon&trade;",
-		"Beat up clowns in HD!",
-		"Brought to you by <s>ROBUSTENGINE&trade;</s> <s>SFML</s> <s>Godot Game Engine</s> Clyde",
+		"Squashing Git Commits",
+		"Arbiter has joined",
 		"Suprisingly not dead!",
 		"We're at it again!",
-		"Now with 20% more space!",
-		"Honking 24/7!"
+		"Now with 50% less desyncs!",
+		"Simulating..."
 	]) + "<br />";
 }
 
