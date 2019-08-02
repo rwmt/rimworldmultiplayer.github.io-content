@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "RWMP"
 ignoreFiles = ["\\.ts$", "tsconfig.json$"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
+googleAnalytics = "UA-145071689-1"
 
 # PYGMENTS (Syntax Highlighting) settings!
 # I couldn't get Chroma to parse C# at all.

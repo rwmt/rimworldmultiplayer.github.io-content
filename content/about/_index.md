@@ -21,7 +21,7 @@ We can always use extra hands. The entire project is open source and available o
 
 We primarily communicate through Discord, although there is an IRC channel that's connected to Discord with a bot.
 
-* [Discord Invite](https://discord.gg/S4bxXpv)
+* [Discord Invite](https://discord.gg/S4bxXpv)                                   
 
 And have some general links to some related communities too:
 
