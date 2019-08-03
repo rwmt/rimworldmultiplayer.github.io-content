@@ -26,10 +26,6 @@ A: Yes, but not all mods will work in multiplayer. We have many resources for de
 
 A: 0 is untested, 1 is not working, 2 is major issue, 3 is minor issues, and 4 is no issues and working fine.
 
-### Q: Can I donate?
-
-A:
-
 ### Q: What is save replay?
 
 A: A multiplayer save game.
