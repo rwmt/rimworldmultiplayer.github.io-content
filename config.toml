@@ -1,6 +1,6 @@
 baseURL = "https://rimworldmultiplayer.com/"
 languageCode = "en-us"
-title = "RWMP"
+title = "Rimworld Multiplayer"
 ignoreFiles = ["\\.ts$", "tsconfig.json$"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
