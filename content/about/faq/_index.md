@@ -4,6 +4,13 @@ date = "2019-03-28"
 type = "about"
 +++
 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 # Frequently Asked Questions
 
 ### Q: Where is Zetrith?
@@ -65,3 +72,17 @@ A: On the main menu click Multiplayer, select the save you want to convert and c
 ### Q: How to clean a dirty core folder?
 
 A: This can help you if you're having trouble loading Rimworld or in resolving Desync issues. Go to your Rimworld install folder > Mods > Core and delete the Core folder. Then, verify Rimworld's game files in Steam.
+
+### Q: Can I donate?
+
+<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support RWMP on Ko-fi', '#46b798', 'L4L1117BB');kofiwidget2.draw();</script>
+
+### Q: What will donations be used for?
+
+A: Donations are used for hosting the website. Any excess donations we receive will be used to put bounties on mods that are not compatible. This will hopefully encourage community developers to work on making mods compatible.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;

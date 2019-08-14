@@ -5,24 +5,36 @@ date = "2019-07-26"
 type = "about"
 +++
 
-# What is Rimworld Multiplayer?
+&nbsp;
 
-**Rimworld Multiplayer** is a community driven mod to implement Multiplayer into [Rimworld](https://rimworldgame.com/). The mod is unofficial, and in no way endorsed by Tynan or Ludeon Studios.
+&nbsp;
 
-## Status
+&nbsp;
 
-Currently, the project is in a "beta" state. We have many tasks ahead of us. On this website you will be able to find progress reports as long as we're kicking.
+# About
 
-## Getting involved
+**Rimworld Multiplayer** is an open-source, community driven mod to implement Multiplayer into [Rimworld](https://rimworldgame.com/). The mod is unofficial, and in no way endorsed by Tynan or Ludeon Studios. We are just a bunch of internet denizens, passionate about the game.
 
-We can always use extra hands. The entire project is open source and available on GitHub here:
+&nbsp;
 
-* Main Repo: [rwmt/Multiplayer](https://github.com/rwmt/Multiplayer).
+## Discord Server
 
-We primarily communicate through Discord, although there is an IRC channel that's connected to Discord with a bot.
+Our official discord server is our primary method of communication. It is the best way to stay up to date on updates, check mods, and contact the developers of Rimworld Multiplayer. We also have LFG channels were you can group up to play with other players.
+&nbsp;
 
-* [Discord Invite](https://discord.gg/S4bxXpv)                                   
+&nbsp;
+&nbsp;
 
-And have some general links to some related communities too:
+* [Discord Invite](https://discord.gg/S4bxXpv)   
 
-* [Rimworld Subreddit](https://www.reddit.com/r/RimWorld/)
+&nbsp;
+
+## Piracy Policy
+
+We do not ban or restrict access from the mod or the discord if someone is using a pirated person of the game. Most staff members however will ghost you if you mention you are using a pirated version of the game. It is frowned upon to pirate Rimworld, but we're not monsters.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
