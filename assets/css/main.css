@@ -11,7 +11,7 @@ body
 #background
 {
 	z-index: -10;
-	background: url("/images/background.jpg") black;
+	background: url("/images/background1.jpg") black;
 	background-size: cover;
 	background-attachment: fixed;
 	height: 100%;
@@ -26,7 +26,7 @@ html
 
 #centercolumn
 {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, .85);
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0;
@@ -34,8 +34,8 @@ html
 	min-height: 100%;
 	text-align: left;
 	bottom: 0;
-	-webkit-box-shadow: 0px 0px 80px 100px rgba(0,0,0,0.8);
-	box-shadow: 0px 0px 100px 80px rgba(0,0,0,0.8);
+	-webkit-box-shadow: 0px 0px 80px 100px rgba(0,0,0,0.9);
+	box-shadow: 0px 0px 100px 80px rgba(0,0,0,0.9);
 	position: initial;
 	display:block;
 	overflow:auto;
@@ -43,8 +43,9 @@ html
 
 #header
 {
-	padding-top: 60px;
+	padding-top: 40px;
 	overflow: auto;
+	display: block;
 }
 
 .left
@@ -78,17 +79,17 @@ html
 .navlink
 {
 
-	font-size: 25pt;
+	font-size: 24pt;
 	color: rgb(200, 200, 200);
 	text-decoration: none;
-	margin-left: 40px;
+	margin-left: 20px;
 	font-family: "RimWordFont";
 }
 
 main
 {
 	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 small
@@ -149,18 +150,19 @@ header > a
 }
 
 a {
-	color: rgb(150, 170, 255);
+	/* red color: rgb(255, 100, 100); */
+	color: rgb(150,220,255);
 }
 
 a:link
 {
 	text-decoration: none;
-	color: rgb(200, 200, 255);
 }
 
 a:hover
 {
 	text-decoration: none;
+	color: rgb(255, 255, 255);
 }
 
 ul.pagination
@@ -196,7 +198,7 @@ li.disabled, li.disabled > a
 
 .bottom-links a
 {
-	color: dimgray;
+	color: grey;
 }
 
 .bottom-links ul > li

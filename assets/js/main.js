@@ -12,7 +12,8 @@ function onLoaded() {
   		"Suprisingly not dead!",
   		"We're at it again!",
   		"Now with 50% less desyncs!",
-  		"Simulating..."
+  		"Simulating...",
+      "Swept eats paste"
     ]) + "<br />";
 }
 if (document.readyState !== "loading") {
