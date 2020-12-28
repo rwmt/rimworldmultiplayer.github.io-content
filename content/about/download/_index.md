@@ -12,19 +12,19 @@ type = "about"
 
 <div id="download-container">
 	<div class="download">
-		<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297"><img src="/images/steam.png" class="download-image"/></a>
+		<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297"><img src="/images/steam.svg" class="download-image"/></a>
 		<small>Steam Workshop</small>
 		<a class="download-link" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297">Link</a>
 		<small><strong><a href=""></a></strong></small>
 	</div>
 	<div class="download">
-		<a href="https://github.com/rwmt/Multiplayer/releases"><img src="/images/github.png" class="download-image"/></a>
+		<a href="https://github.com/Parexy/Multiplayer/releases"><img src="/images/github.svg" class="download-image"/></a>
 		<small>Github Release</small>
-		<a class="download-link" href="https://github.com/rwmt/Multiplayer/releases">Link</a>
+		<a class="download-link" href="https://github.com/Parexy/Multiplayer/releases">Link</a>
 		<small><strong><a href=""></a></strong></small>
 	</div>
 	<div class="download">
-		<a href="https://ludeon.com/forums/index.php?topic=49142.0"><img src="/images/ludeon.png" class="download-image"/></a>
+		<a href="https://ludeon.com/forums/index.php?topic=49142.0"><img src="/images/ludeon.svg" class="download-image"/></a>
 		<small>Ludeon Forums</small>
 		<a class="download-link" href="https://ludeon.com/forums/index.php?topic=49142.0">Link</a>
 		<small><strong><a href=""></a></strong></small>
