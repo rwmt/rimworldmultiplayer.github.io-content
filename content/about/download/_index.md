@@ -1,6 +1,6 @@
 +++
 title = "Downloads"
-date = ""
+date = "2020-12-29"
 type = "about"
 +++
 
@@ -15,7 +15,7 @@ type = "about"
 	</div>
 	<div class="download">
 		<a href="https://github.com/rwmt/Multiplayer/releases"><img src="/images/github.svg" class="download-image"/></a>
-		<small>Github Release</small>
+		<small>Github Release (Currently Behind)</small>
 		<a class="download-link" href="https://github.com/rwmt/Multiplayer/releases">Link</a>
 		<small><strong><a href=""></a></strong></small>
 	</div>
