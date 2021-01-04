@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Downloads on Rimworld Multiplayer</title>
+    <link>https://rimworldmultiplayer.com/about/download/</link>
+    <description>Recent content in Downloads on Rimworld Multiplayer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rimworldmultiplayer.com/about/download/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
