@@ -1,6 +1,6 @@
 +++
 title = "Downloads"
-date = "2020-12-29"
+date = "2021-06-03"
 type = "about"
 +++
 
@@ -15,7 +15,7 @@ type = "about"
 	</div>
 	<div class="download">
 		<a href="https://github.com/rwmt/Multiplayer/releases"><img src="/images/github.svg" class="download-image"/></a>
-		<small>Github Release (Currently Behind)</small>
+		<small>Github Release</small>
 		<a class="download-link" href="https://github.com/rwmt/Multiplayer/releases">Link</a>
 		<small><strong><a href=""></a></strong></small>
 	</div>
@@ -36,7 +36,7 @@ type = "about"
 
 3. Configure your desired settings on the Host window, and click host.
 
-4. When hosting through Steam, users can just connect through your Steam friends list. With  the "direct" option, users shoudl portforward 30502 through UDP.
+4. When hosting through Steam, users can just connect through your Steam friends list. With the "direct" option, users should portforward 30502 through UDP.
 
 &nbsp;
 

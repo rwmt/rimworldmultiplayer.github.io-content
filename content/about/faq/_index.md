@@ -1,6 +1,6 @@
 +++
 title = "Frequently Asked Questions"
-date = "2020-12-29"
+date = "2021-06-03"
 type = "about"
 +++
 
@@ -15,7 +15,7 @@ type = "about"
 
 ### Q: Where is Zetrith?
 
-A: He's around doing his own thing, who knows, he might make an appearance every now and then if we're lucky.
+A: He came back shortly but once again vanished into the ether.
 
 ### Q: Is the mod dead?
 
@@ -37,6 +37,10 @@ A: Players can connect through Steam, LAN, or Direct. To use direct connect, por
 
 A: No. Currently everyone is playing in the same faction cooperatively.
 
+### Q: Does Royalty work/Does everyone need it?
+
+A: Royalty mostly works (minus one quest) however if you are to use it, both the host and clients need to have it installed.
+
 ### Q: Can mods be used in multiplayer?
 
 A: Yes, but not all mods will work in multiplayer. We have many resources for determining which mods work with Multiplayer. The best way to find out which mods work is looking at our [spreadsheet](https://tinyurl.com/Multiplayer-Spreadsheet).
@@ -52,7 +56,7 @@ checked and will probably not work without compatibility patches.
 
 ### Q: What is a save replay?
 
-A: A multiplayer save game.
+A: A multiplayer save game. (These can not be loaded in SP)
 
 ### Q: How can I change my in-game name?
 
@@ -64,7 +68,7 @@ A: Yes, this should not cause any problems even with a lot of other mods enabled
 
 ### Q: Which RimWorld version should I be using?
 
-A: Latest. (v1.2.2753)
+A: Always play the latest unless otherwise stated.
 
 ### Q: What is the maximum amount of players that can be in a game?
 
@@ -76,17 +80,17 @@ A: No.
 
 ### Q: Why does simulating take so long?
 
-A: Simulations takes place from the last autosave made, so if you make a full save from the esc menu it'll eliminate the simulation time. The same applies to resyncing, so if the host forces a full save before someone resyncs it will also remove their simulation time.
+A: Simulations takes place from the last autosave made, so if you make a full save from the ESC menu it'll eliminate the simulation time. The same applies to resyncing, so if the host forces a full save before someone resyncs it will also remove their simulation time.
 
 ### Q: Is this mod fully vanilla compatible?
 
-A: No, currently there are a few features that don't work in multiplayer. Faction renaming, and some caravan events are disabled. Since Royalty has a ton of quests, some of them might not have been checked and might desync. Report them in our
+A: Mostly, however currently there are a few features that don't work in multiplayer. Faction renaming, and some caravan events are disabled. Since Royalty has a ton of quests, some of them might not have been checked and might desync. Report them in our
 discord server if this happens.
 
 ### Q: How do I convert a Multiplayer game back to Singleplayer?
 
 A: Currently this will result in a save that can't be converted back to Multiplayer without corruption, this however can still be used in Singleplayer. 
-This can be done by hitting esc while in game and selecting "Convert to Singleplayer".
+This can be done by hitting ESC while in game and selecting "Convert to Singleplayer".
 
 ### Q: How to clean a dirty core folder?
 
@@ -94,7 +98,7 @@ A: This can help you if you're having trouble loading Rimworld or in resolving D
 
 ### Q: Can I donate?
 
-A: If you're feeling generous then these are the people who are currently working on the mod:
+A: If you're feeling generous then these are the people who have contributed to the mod's development:
 
 NotFood:
 https://ko-fi.com/notfood (Core) (Mod Compatiblity) (Compatability Commissions)
