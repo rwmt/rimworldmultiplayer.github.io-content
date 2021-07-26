@@ -1,7 +1,7 @@
 +++
 title = "Update 0.5.3.0 | Patch for Rimworld 1.2"
 author = "Swept"
-date = 2020-05-04
+date = 2021-05-04
 categories = [
 	"Update"
 ]
