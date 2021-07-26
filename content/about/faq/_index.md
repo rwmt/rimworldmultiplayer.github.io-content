@@ -13,10 +13,6 @@ type = "about"
 
 # Frequently Asked Questions
 
-### Q: Where is Zetrith?
-
-A: He came back shortly but once again vanished into the ether.
-
 ### Q: Is the mod dead?
 
 A: No. There will be a formal announcement if the mod ever dies. No-progress does not mean the death of the mod. The mod is developed by the community, who all have lives outside of the mod. If you want something in the mod so badly, code it yourself! We review and merge any constructive PRs.
@@ -45,9 +41,7 @@ A: Royalty mostly works (minus one quest) however if you are to use it, both the
 
 A: Yes, but not all mods will work in multiplayer. We have many resources for determining which mods work with Multiplayer. The best way to find out which mods work is looking at our [spreadsheet](https://tinyurl.com/Multiplayer-Spreadsheet).
 
-### Q: What do the numbers on the mod spreadsheet/website mean?
-
-A: 0 is untested, 1 is not working, 2 is major issue, 3 is minor issues, and 4 is no issues and working fine.
+0 is untested, 1 is not working, 2 is major issues, 3 is minor issues, and 4 is no issues and working fine.
 
 ### Q: What kind of mods are compatible?
 
@@ -89,8 +83,7 @@ discord server if this happens.
 
 ### Q: How do I convert a Multiplayer game back to Singleplayer?
 
-A: Currently this will result in a save that can't be converted back to Multiplayer without corruption, this however can still be used in Singleplayer. 
-This can be done by hitting ESC while in game and selecting "Convert to Singleplayer".
+A: Currently this will result in a save that can't be converted back to Multiplayer without corruption, this however can still be used in Singleplayer. This can be done by hitting ESC while in game and selecting "Convert to Singleplayer".
 
 ### Q: How to clean a dirty core folder?
 
@@ -98,25 +91,21 @@ A: This can help you if you're having trouble loading Rimworld or in resolving D
 
 ### Q: Can I donate?
 
-A: If you're feeling generous then these are the people who have contributed to the mod's development:
+A: If you're feeling generous then these are the people who have contributed to the mod's development and upkeep:
 
-NotFood:
-https://ko-fi.com/notfood (Core) (Mod Compatiblity) (Compatability Commissions)
+[NotFood](https://ko-fi.com/notfood): (Core, Mod Compatiblity, Compatability Commissions)
 
-Nebual:
-https://ko-fi.com/Nebual (Core)
+[Nebual](https://ko-fi.com/Nebual): (Core)
 
-Sokyran
-https://ko-fi.com/sokyran (Mod Compatiblity) (Compatability Commissions)
+[Sokyran](https://ko-fi.com/sokyran): (Mod Compatiblity, Compatability Commissions)
 
-Thomas107500
-https://ko-fi.com/thomas107500 (Mod Compatiblity)
+[Thomas107500](https://ko-fi.com/thomas107500): (Mod Compatiblity)
 
-ZoeyVS
-https://ko-fi.com/zoeyvs (Support)
+[ZoeyVS](https://ko-fi.com/zoeyvs): (Support)
 
-Mistress Mia
-https://ko-fi.com/miaamakiir (Support)
+[Mistress Mia](https://ko-fi.com/miaamakiir): (Support)
+
+[Swept](https://ko-fi.com/swept): (Website, Support)
 
 &nbsp;
 
