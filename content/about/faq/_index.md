@@ -105,8 +105,6 @@ A: If you're feeling generous then these are the people who have contributed to 
 
 [Mistress Mia](https://ko-fi.com/miaamakiir): (Support)
 
-[Swept](https://ko-fi.com/swept): (Website, Support)
-
 &nbsp;
 
 &nbsp;

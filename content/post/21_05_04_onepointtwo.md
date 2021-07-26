@@ -12,7 +12,7 @@ Hello again! Sorry AGAIN for the almost year of radio silence. We haven't been s
 
 <!--more-->
 
-Thanks to NotFood, Nebual, Sokyran, Mang and Zoey and all our testers for making this release possible!
+Thanks to NotFood, Nebual, Sokyran, Mang, Zoey and all our testers for making this release possible!
 
 ## Patchnotes
 
