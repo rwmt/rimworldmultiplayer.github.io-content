@@ -17,6 +17,26 @@ Our [official discord server](https://discord.gg/S4bxXpv) is our primary method 
 
 We do not ban or restrict access from the mod or the discord if someone is using a pirated person of the game. Most staff members however will ghost you if you mention you are using a pirated version of the game. It is frowned upon to pirate Rimworld, but we're not monsters.
 
+## Donations
+
+We don't accept donations as a project anymore but if you're feeling generous then these are people who have contributed to the mod's development and upkeep.
+
+**Zetrith** - (Creator, Core, Support) - https://ko-fi.com/zetrith
+
+**NotFood** - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/notfood
+
+Sokyran - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/sokyran
+
+Nebual - (Core) - https://ko-fi.com/Nebual
+
+Thomas107500 - (Mod Compatiblity) - https://ko-fi.com/thomas107500
+
+ZoeyVS - (Support/Admin) - https://ko-fi.com/zoeyvs
+
+Mistress Mia - (Support/Admin) - https://ko-fi.com/miaamakiir
+
+Swept - (Support/Admin/Website) - https://ko-fi.com/swept
+
 &nbsp;
 
 &nbsp;

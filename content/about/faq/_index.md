@@ -89,22 +89,6 @@ A: Currently this will result in a save that can't be converted back to Multipla
 
 A: This can help you if you're having trouble loading Rimworld or in resolving Desync issues. Go to your Rimworld install folder delete the Data folder. Then, verify Rimworld's game files in Steam.
 
-### Q: Can I donate?
-
-A: If you're feeling generous then these are the people who have contributed to the mod's development and upkeep:
-
-[NotFood](https://ko-fi.com/notfood): (Core, Mod Compatiblity, Compatability Commissions)
-
-[Nebual](https://ko-fi.com/Nebual): (Core)
-
-[Sokyran](https://ko-fi.com/sokyran): (Mod Compatiblity, Compatability Commissions)
-
-[Thomas107500](https://ko-fi.com/thomas107500): (Mod Compatiblity)
-
-[ZoeyVS](https://ko-fi.com/zoeyvs): (Support)
-
-[Mistress Mia](https://ko-fi.com/miaamakiir): (Support)
-
 &nbsp;
 
 &nbsp;
