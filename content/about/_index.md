@@ -31,7 +31,7 @@ Nebual - (Core) - https://ko-fi.com/Nebual
 
 Thomas107500 - (Mod Compatiblity) - https://ko-fi.com/thomas107500
 
-ZoeyVS - (Support/Admin) - https://ko-fi.com/zoeyvs
+Luz - (Support/Admin) - https://ko-fi.com/llavorre
 
 Mistress Mia - (Support/Admin) - https://ko-fi.com/miaamakiir
 
