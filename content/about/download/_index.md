@@ -8,9 +8,9 @@ type = "about"
 
 <div id="download-container">
 	<div class="download">
-		<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297"><img src="/images/steam.svg" class="download-image"/></a>
+		<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2606448745"><img src="/images/steam.svg" class="download-image"/></a>
 		<small>Steam Workshop</small>
-		<a class="download-link" href="https://steamcommunity.com/sharedfiles/filedetails/?id=1752864297">Link</a>
+		<a class="download-link" href="https://steamcommunity.com/sharedfiles/filedetails/?id=2606448745">Link</a>
 		<small><strong><a href=""></a></strong></small>
 	</div>
 	<div class="download">

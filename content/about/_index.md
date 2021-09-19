@@ -7,7 +7,7 @@ type = "about"
 
 # About
 
-**Rimworld Multiplayer** is an open-source, community driven mod to implement Multiplayer into [Rimworld](https://rimworldgame.com/). The mod is unofficial, and in no way endorsed by Tynan or Ludeon Studios. We are just a bunch of internet denizens, passionate about the game.
+**Rimworld Multiplayer** is an open-source, community driven mod to implement multiplayer into [RimWorld](https://rimworldgame.com/). The mod is unofficial, and in no way endorsed by Tynan or Ludeon Studios. We are just a bunch of internet denizens, passionate about the game.
 
 ## Discord Server
 
