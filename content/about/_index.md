@@ -25,7 +25,7 @@ We don't accept donations as a project anymore but if you're feeling generous th
 
 **NotFood** - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/notfood
 
-Sokyran - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/sokyran
+**Sokyran** - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/sokyran
 
 Nebual - (Core) - https://ko-fi.com/Nebual
 

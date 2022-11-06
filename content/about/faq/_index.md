@@ -14,7 +14,7 @@ type = "about"
 # Frequently Asked Questions
 
 ### Q: What version of RimWorld does the mod work with?
-The latest steam workshop, discord and github downloads are compatible with the latest 1.1 and 1.2 versions.
+The latest steam workshop, discord and github downloads are compatible with the latest 1.3 and 1.4 versions.
 
 ### Q: Which RimWorld version should I be using?
 You should always be using the latest version of rimworld as we do not check if newer updates of the mod works for older versions of rimworld.
