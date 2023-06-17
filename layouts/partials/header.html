@@ -8,10 +8,8 @@
 		<base href="{{ .Site.BaseURL }}" />
 		{{ if .Title }}<title>{{ .Title }} - Rimworld Multiplayer</title>{{ else }}<title>Rimworld Multiplayer</title>{{ end }}
 		<link rel="canonical" href="{{ .Permalink }}" />
-		{{ if .RSSLink }}
-			<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-			<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
-		{{ end }}
+		<link href="/index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+		<link href="/index.xml" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
 
 		{{ partial "head_includes.html" }}
 	</head>
