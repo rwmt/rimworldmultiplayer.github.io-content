@@ -21,7 +21,7 @@ We do not ban or restrict access from the mod or the discord if someone is using
 
 We don't accept donations as a project anymore but if you're feeling generous then these are people who have contributed to the mod's development and upkeep.
 
-**Zetrith** - (Creator, Core, Support) - https://ko-fi.com/zetrith
+**Zetrith** - (Creator, Core, Support) - https://patreon.com/zetrith
 
 **NotFood** - (Core, Mod Compatiblity, Compatibility Commissions) - https://ko-fi.com/notfood
 
