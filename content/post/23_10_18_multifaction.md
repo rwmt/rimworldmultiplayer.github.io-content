@@ -20,6 +20,7 @@ Changelog:
 	- Choose crashlanding pawns (support for custom scenarios is a planned feature)
   - Different player factions have their own research, zones, areas, work priorities etc.
   - Click on pawns of other factions to set faction relations (Neutral/Hostile)
+- Dropped support for RimWorld 1.2
 - Performance should be slightly improved
 - Fix applying the mod list with "Fix and restart"
 - Fix issues with desync tracing and latest Harmony
@@ -30,7 +31,7 @@ To enable multifaction, toggle it while hosting a save (I recommend also activat
 
 Compatibility with other mods is largely untested and, for now, the mod checker includes no information on multifaction though this will change over time.
 
-Performance-wise, multifaction should be the same as co-op with multiple maps on previous versions. This means that, currently, having more than 2-3 faction bases on a planet is going to impact performance significantly long-term (but see What's planned).
+Performance-wise, multifaction should be the same as co-op with multiple maps on previous versions. This means that, currently, having more than 2-3 faction bases on a planet is going to impact performance significantly long-term.
 
 Co-op gameplay with multifaction disabled should be unaffected by the update. Please make reports if you encounter any issues.
 
